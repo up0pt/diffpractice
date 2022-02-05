@@ -1,2 +1,2 @@
 # diffpractice
-for diff practice
+for pull --rebase practice
